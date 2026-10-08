@@ -1,0 +1,1 @@
+{"solana": true, "alerts": true, "trade": {"robinhood": "https://axiom.trade/t/{address}/@crawlscan?chain=robinhood", "solana": "https://axiom.trade/t/{address}/@crawlscan"}}
